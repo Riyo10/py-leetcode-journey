@@ -1,5 +1,7 @@
 📘 LeetCode Daily Python
 
+My LeetCode Profile URL - https://leetcode.com/u/supriyomaity10/
+
 A collection of my daily LeetCode solutions written in Python.
 This repository serves as my personal coding journal where I practice algorithms, data structures, and interview patterns—one problem at a time.
 
